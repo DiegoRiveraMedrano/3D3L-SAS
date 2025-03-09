@@ -2,7 +2,7 @@
 
 Este es un repositorio público que contiene la página oficial de **3D3L S.A.S.** desarrollada por mí. El código fuente y los archivos del proyecto son privados debido a la política interna de la empresa, pero este repositorio sirve como un enlace de acceso y como referencia de uno de los proyectos más importantes que he desarrollado.
 
-![Texto alternativo](Inicio.gift)
+![Inicio](Inicio.gif)
 
 ## Descripción del Proyecto
 
