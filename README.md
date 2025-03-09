@@ -2,6 +2,8 @@
 
 Este es un repositorio público que contiene la página oficial de **3D3L S.A.S.** desarrollada por mí. El código fuente y los archivos del proyecto son privados debido a la política interna de la empresa, pero este repositorio sirve como un enlace de acceso y como referencia de uno de los proyectos más importantes que he desarrollado.
 
+![Texto alternativo](Inicio.gift)
+
 ## Descripción del Proyecto
 
 La página oficial de **3D3L** está diseñada para proporcionar información clave sobre los servicios, productos y valores de la empresa. El proyecto fue desarrollado utilizando tecnologías como **HTML**, **CSS**, **JavaScript** y **PHP**, integrando funcionalidades específicas para la empresa.
